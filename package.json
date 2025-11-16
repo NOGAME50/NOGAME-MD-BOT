@@ -1,4 +1,3 @@
-json
 {
   "name": "nogame-md-bot",
   "version": "1.0.0",
@@ -6,11 +5,11 @@ json
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
-},
+  },
   "author": "NOGAME Tech",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.5.0",
     "dotenv": "^16.0.3"
-}
+  }
 }
